@@ -11,21 +11,21 @@ I build web applications that solve real problems. Currently seeking remote oppo
 ## 📊 GitHub Stats
 
 <a href="https://github.com/Nawab-sahil">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nawab-sahil&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Nawab-sahil's GitHub stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nawab-sahil&layout=compact&langs_count=7&theme=radical" alt="Top languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nawab-sahil&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Nawab-sahil's GitHub stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nawab-sahil&layout=compact&langs_count=7&theme=tokyonight" alt="Top languages" />
 </a>
 
 ---
 
 ## 🔥 Contribution Streak
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Nawab-sahil&theme=radical)](https://github.com/ashutosh00710/github-readme-streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Nawab-sahil&theme=tokyonight)](https://github.com/ashutosh00710/github-readme-streak-stats)
 
 ---
 
 ## 🏆 Achievements
 
-[![Trophy](https://github-profile-trophy.vercel.app/?username=Nawab-sahil&theme=radical&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![Trophy](https://github-profile-trophy.vercel.app/?username=Nawab-sahil&theme=onedark&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
@@ -79,7 +79,7 @@ I build web applications that solve real problems. Currently seeking remote oppo
 
 ## 📈 Activity Graph
 
-[![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Nawab-sahil&theme=radical&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Nawab-sahil&theme=github&hide_border=false)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
