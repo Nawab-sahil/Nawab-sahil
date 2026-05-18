@@ -10,16 +10,15 @@ I build web applications that solve real problems. Currently seeking remote oppo
 
 ## 📊 GitHub Stats
 
-<a href="https://github.com/Nawab-sahil">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nawab-sahil&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Nawab-sahil's GitHub stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nawab-sahil&layout=compact&langs_count=7&theme=tokyonight" alt="Top languages" />
-</a>
+![Nawab-sahil's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nawab-sahil&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true)
+
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nawab-sahil&layout=compact&langs_count=8&theme=tokyonight&hide_border=true)
 
 ---
 
 ## 🔥 Contribution Streak
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Nawab-sahil&theme=tokyonight)](https://github.com/ashutosh00710/github-readme-streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Nawab-sahil&theme=tokyonight&hide_border=true)](https://github.com/ashutosh00710/github-readme-streak-stats)
 
 ---
 
@@ -79,7 +78,7 @@ I build web applications that solve real problems. Currently seeking remote oppo
 
 ## 📈 Activity Graph
 
-[![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Nawab-sahil&theme=github&hide_border=false)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Nawab-sahil&theme=github-compact&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
