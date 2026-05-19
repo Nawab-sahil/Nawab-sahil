@@ -54,11 +54,10 @@ const sahil: Developer = {
   availableFor: [
     "💼 Remote Full-Time Roles",
     "🔧 Freelance Projects",
-    "🎓 Off-Campus Placements",
+    "🎓 on-site",
   ],
 
   funFact    : "I debug better with lo-fi music 🎵",
-  goal       : "Land remote role / placement in 2 months 🎯",
 };
 ```
 
